@@ -1,4 +1,4 @@
-import 'package:bus_track/register.dart';
+import 'package:bus_track/pages/register.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

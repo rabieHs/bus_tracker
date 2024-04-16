@@ -1,4 +1,5 @@
-import 'package:bus_track/login.dart';
+import 'package:bus_track/pages/login.dart';
+import 'package:bus_track/pages/search_bus.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,6 +11,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: Login());
+    return MaterialApp(home: SearchBusScreen());
   }
 }
